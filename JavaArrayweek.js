@@ -1,4 +1,4 @@
-const week = ["Maandag"," Dinsdag"," Woensdag"," Donderdag"," Vrijdag"," Zaterdag"," Zondag"];
+var week = ["Maandag"," Dinsdag"," Woensdag"," Donderdag"," Vrijdag"," Zaterdag"," Zondag"];
 document.getElementById("Normaal").innerHTML = week;
 
 // Werkdagen //
